@@ -1,0 +1,18 @@
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe.config
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\bin\Debug\Embotelladora.pdb
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.Form1.resources
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.exe
+c:\users\tec\documents\visual studio 2015\Projects\Unidad1\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\tec\Desktop\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\tec\Desktop\Unidad1\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\tec\Desktop\Unidad1\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.frmembotelladora.resources
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\tec\Desktop\Unidad1\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
